@@ -1,6 +1,6 @@
 ## Uncollateralized Lending Solution
 
-This is a smart contract system for uncollateralized loans. Borrowers can request loans, lenders vote to approve them, and repayments include interest.
+Hey guys, I created this smart contract with a complete smart contract system for uncollateralized loans. Borrowers can request loans, lenders vote to approve them, and repayments include interest. 
 
 ## Features
 
